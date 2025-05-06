@@ -31,8 +31,8 @@ A ideia é trazer mais alegria para o dia a dia dos assinantes, com conteúdo ca
 # 💻 Tecnologias Utilizadas
 
 - HTML5
-- CSS3 (Flexbox e Responsividade)
-- JavaScript (DOM, manipulação de eventos)
+- CSS3 
+- JavaScript 
 
 <br>
 
